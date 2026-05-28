@@ -129,6 +129,7 @@ tqdm
 
 ## Kaynaklar
 
+- [Tahmin Fotoğrafın Kaynağı](https://vegpath.plantpath.wisc.edu/diseases/potato-early-blight)
 - [Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
 - [PlantVillage Veri Seti Makalesi](https://arxiv.org/abs/1511.08060)
 - [Derin Öğrenme ile Bitki Hastalığı Tespiti](https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full)
